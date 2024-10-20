@@ -29,7 +29,7 @@ namespace RestaurantApp_BackEnd.Services
                     Description = item.Description,
                     Ingredients = item.Ingredients,
                     Group = item.Group,
-                    Image = $"{item.Image}",
+                    Image = $"http://localhost:7188/assets/menuItems/{item.Image}",
                     Price = item.Price
                 });
             }

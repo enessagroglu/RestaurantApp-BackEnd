@@ -16,19 +16,19 @@ namespace RestaurantApp_BackEnd.Controllers
             _menuService = new MenuService();
         }
 
-        [HttpGet]
+        [HttpGet("get")]
         public ActionResult<List<MenuItemDto>> GetMenuItems()
         {
             return _menuService.GetMenuItems();
         }
 
-        [HttpPost]
+        [HttpPost("post")]
         public ActionResult<MenuItemDto> AddMenuItem(MenuItemCreateDto newItemDto)
         {
             return _menuService.AddMenuItem(newItemDto);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("delete/{id}")]
         public IActionResult DeleteMenuItem(int id)
         {
             _menuService.DeleteMenuItem(id);

@@ -5,7 +5,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "kapali-pide",
-    "image": "/assets/menuItems/kiymali-kapali.webp",
+    "image": "kiymali-kapali.webp",
     "price": 200
   },
   {
@@ -14,7 +14,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "kapali-pide",
-    "image": "/assets/menuItems/kavurmali-kapali.webp",
+    "image": "kavurmali-kapali.webp",
     "price": 200
   },
   {
@@ -23,7 +23,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Pastırma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "kapali-pide",
-    "image": "/assets/menuItems/pastirmali-kapali.webp",
+    "image": "pastirmali-kapali.webp",
     "price": 220
   },
   {
@@ -32,7 +32,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Pastırma / Kaşar / Trabzon Tereyağı / Çıtır Hamur",
     "group": "kapali-pide",
-    "image": "/assets/menuItems/pastirmali-kasarli-kapali.webp",
+    "image": "pastirmali-kasarli-kapali.webp",
     "price": 200
   },
   {
@@ -41,7 +41,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "yuvarlak-pide",
-    "image": "/assets/menuItems/kavurmali-yuvarlak.webp",
+    "image": "kavurmali-yuvarlak.webp",
     "price": 190
   },
   {
@@ -50,7 +50,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "yuvarlak-pide",
-    "image": "/assets/menuItems/kiymali-yuvarlak.webp",
+    "image": "kiymali-yuvarlak.webp",
     "price": 190
   },
   {
@@ -59,7 +59,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
     "group": "yuvarlak-pide",
-    "image": "/assets/menuItems/peynirli-yuvarlak.webp",
+    "image": "peynirli-yuvarlak.webp",
     "price": 190
   },
   {
@@ -68,7 +68,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
     "group": "yuvarlak-pide",
-    "image": "/assets/menuItems/karisik-yuvarlak.webp",
+    "image": "karisik-yuvarlak.webp",
     "price": 190
   },
   {
@@ -77,7 +77,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "acik-pide",
-    "image": "/assets/menuItems/kavurmali-acik.webp",
+    "image": "kavurmali-acik.webp",
     "price": 200
   },
   {
@@ -86,7 +86,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
     "group": "acik-pide",
-    "image": "/assets/menuItems/kiymali-acik.webp",
+    "image": "kiymali-acik.webp",
     "price": 200
   },
   {
@@ -95,7 +95,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
     "group": "acik-pide",
-    "image": "/assets/menuItems/peynirli-acik.webp",
+    "image": "peynirli-acik.webp",
     "price": 200
   },
   {
@@ -104,7 +104,7 @@
     "description": "Parpali Klasikleri",
     "ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
     "group": "acik-pide",
-    "image": "/assets/menuItems/karisik-acik.webp",
+    "image": "karisik-acik.webp",
     "price": 200
   }
 ]
