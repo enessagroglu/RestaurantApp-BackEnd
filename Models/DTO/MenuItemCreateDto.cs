@@ -7,6 +7,6 @@
         public string Ingredients { get; set; } = string.Empty;
         public string Group { get; set; } = string.Empty;
         public string Image { get; set; } = string.Empty;
-        public decimal Price { get; set; }
+        public string Price { get; set; } = string.Empty;
     }
 }

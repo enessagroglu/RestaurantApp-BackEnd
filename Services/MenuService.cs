@@ -40,6 +40,12 @@ namespace RestaurantApp_BackEnd.Services
 
         public MenuItemDto AddMenuItem(MenuItemCreateDto newItemDto)
         {
+            
+            if (!decimal.TryParse(newItemDto.Price, out decimal parsedPrice))
+            {
+                throw new ArgumentException("Geçersiz fiyat formatı.");
+            }
+
             var newItem = new MenuItem
             {
                 Name = newItemDto.Name,
@@ -47,11 +53,10 @@ namespace RestaurantApp_BackEnd.Services
                 Ingredients = newItemDto.Ingredients,
                 Group = newItemDto.Group,
                 Image = newItemDto.Image,
-                Price = newItemDto.Price
+                Price = parsedPrice 
             };
 
             var addedItem = _menuRepository.AddMenuItem(newItem);
-
             return new MenuItemDto
             {
                 Id = addedItem.Id,
@@ -63,6 +68,7 @@ namespace RestaurantApp_BackEnd.Services
                 Price = addedItem.Price
             };
         }
+
 
         public void DeleteMenuItem(int id)
         {

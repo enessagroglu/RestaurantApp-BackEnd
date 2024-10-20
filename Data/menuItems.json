@@ -1,110 +1,137 @@
 [
   {
-    "id": 1,
-    "name": "Kıymalı Kapalı Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "kapali-pide",
-    "image": "kiymali-kapali.webp",
-    "price": 200
+    "Id": 1,
+    "Name": "Kıymalı Kapalı Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "kapali-pide",
+    "Image": "kiymali-kapali.webp",
+    "Price": 200.0
   },
   {
-    "id": 2,
-    "name": "Kavurmalı Kapalı Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "kapali-pide",
-    "image": "kavurmali-kapali.webp",
-    "price": 200
+    "Id": 2,
+    "Name": "Kavurmalı Kapalı Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "kapali-pide",
+    "Image": "kavurmali-kapali.webp",
+    "Price": 200.0
   },
   {
-    "id": 3,
-    "name": "Pastırmalı Kapalı Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Pastırma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "kapali-pide",
-    "image": "pastirmali-kapali.webp",
-    "price": 220
+    "Id": 3,
+    "Name": "Pastırmalı Kapalı Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Pastırma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "kapali-pide",
+    "Image": "pastirmali-kapali.webp",
+    "Price": 220.0
   },
   {
-    "id": 4,
-    "name": "Pastırmalı Kaşarlı Kapalı Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Pastırma / Kaşar / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "kapali-pide",
-    "image": "pastirmali-kasarli-kapali.webp",
-    "price": 200
+    "Id": 4,
+    "Name": "Pastırmalı Kaşarlı Kapalı Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Pastırma / Kaşar / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "kapali-pide",
+    "Image": "pastirmali-kasarli-kapali.webp",
+    "Price": 200.0
   },
   {
-    "id": 5,
-    "name": "Kavurmalı Yuvarlak Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "yuvarlak-pide",
-    "image": "kavurmali-yuvarlak.webp",
-    "price": 190
+    "Id": 5,
+    "Name": "Kavurmalı Yuvarlak Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "yuvarlak-pide",
+    "Image": "kavurmali-yuvarlak.webp",
+    "Price": 190.0
   },
   {
-    "id": 6,
-    "name": "Kıymalı Yuvarlak Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "yuvarlak-pide",
-    "image": "kiymali-yuvarlak.webp",
-    "price": 190
+    "Id": 6,
+    "Name": "Kıymalı Yuvarlak Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "yuvarlak-pide",
+    "Image": "kiymali-yuvarlak.webp",
+    "Price": 190.0
   },
   {
-    "id": 7,
-    "name": "Peynirli Yuvarlak Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "yuvarlak-pide",
-    "image": "peynirli-yuvarlak.webp",
-    "price": 190
+    "Id": 7,
+    "Name": "Peynirli Yuvarlak Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "yuvarlak-pide",
+    "Image": "peynirli-yuvarlak.webp",
+    "Price": 190.0
   },
   {
-    "id": 8,
-    "name": "Karışık Yuvarlak Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "yuvarlak-pide",
-    "image": "karisik-yuvarlak.webp",
-    "price": 190
+    "Id": 8,
+    "Name": "Karışık Yuvarlak Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "yuvarlak-pide",
+    "Image": "karisik-yuvarlak.webp",
+    "Price": 190.0
   },
   {
-    "id": 9,
-    "name": "Kavurmalı Açık Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "acik-pide",
-    "image": "kavurmali-acik.webp",
-    "price": 200
+    "Id": 9,
+    "Name": "Kavurmalı Açık Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kavurma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "acik-pide",
+    "Image": "kavurmali-acik.webp",
+    "Price": 200.0
   },
   {
-    "id": 10,
-    "name": "Kıymalı Açık Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "acik-pide",
-    "image": "kiymali-acik.webp",
-    "price": 200
+    "Id": 10,
+    "Name": "Kıymalı Açık Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kıyma / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "acik-pide",
+    "Image": "kiymali-acik.webp",
+    "Price": 200.0
   },
   {
-    "id": 11,
-    "name": "Peynirli Açık Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "acik-pide",
-    "image": "peynirli-acik.webp",
-    "price": 200
+    "Id": 11,
+    "Name": "Peynirli Açık Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Peynir / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "acik-pide",
+    "Image": "peynirli-acik.webp",
+    "Price": 200.0
   },
   {
-    "id": 12,
-    "name": "Karışık Açık Pide",
-    "description": "Parpali Klasikleri",
-    "ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
-    "group": "acik-pide",
-    "image": "karisik-acik.webp",
-    "price": 200
+    "Id": 12,
+    "Name": "Karışık Açık Pide",
+    "Description": "Parpali Klasikleri",
+    "Ingredients": "Kavurma / Peynir / Trabzon Tereyağı / Çıtır Hamur",
+    "Group": "acik-pide",
+    "Image": "karisik-acik.webp",
+    "Price": 200.0
+  },
+  {
+    "Id": 13,
+    "Name": "deneme",
+    "Description": "123123",
+    "Ingredients": "ice latte",
+    "Group": "salata",
+    "Image": "69787177-06f7-442c-838c-212da3d79d44.jpg",
+    "Price": 2456.0
+  },
+  {
+    "Id": 14,
+    "Name": "asdas",
+    "Description": "asdasd",
+    "Ingredients": "asdasd",
+    "Group": "kapali-pide",
+    "Image": "37e7bb2f-78e5-45c5-b759-3f596bddf50d.jpg",
+    "Price": 245.0
+  },
+  {
+    "Id": 15,
+    "Name": "deneme son",
+    "Description": "asd",
+    "Ingredients": "denemeemmee",
+    "Group": "kapali-pide",
+    "Image": "2528f7a5-cb93-4220-b6fe-95c1a5faf63e.png",
+    "Price": 12.57
   }
 ]
